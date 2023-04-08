@@ -1,5 +1,4 @@
 function checkIfNoGo() {
-    console.log('1234')
     const timerID = window.setTimeout(checkIfNoGo, 1500);
     let arrDialogs = ['291479035'];
     //setTimeout(() => {
